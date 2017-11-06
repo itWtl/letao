@@ -1,6 +1,0 @@
-
-define(['jquery', './utils'], function ($) {
-
-    
-
-})
