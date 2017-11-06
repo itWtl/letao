@@ -59,6 +59,8 @@
        <!-- 引入共同的js模块 -->
     <script>
         require(['src/index']);
+
+        // 引入业务逻辑
     </script>
 </body>
 </html>
